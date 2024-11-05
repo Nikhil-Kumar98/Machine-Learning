@@ -1,4 +1,4 @@
-# Machine-Learning
+# Handwritten Digit Classification and SMS Spam Detection Using Machine Learning
 
 **Project 1: Handwritten Digit Classification**
 Task specification :  classification of handwritten digits based on the **Gaussian naive Bayes approach.**
